@@ -1,0 +1,29 @@
+.title{
+  background-color: lightgreen;
+  text-align: center;
+  color:white;
+}
+.list{
+  text-align: center;
+}
+
+.list .graph{
+  border: 2px solid #000000;
+}
+.list .delete{
+  margin-left: 20px;
+}
+.list .form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer{
+  text-align: center;
+}
+
+.filtter{
+  margin-bottom: 10px;
+}
